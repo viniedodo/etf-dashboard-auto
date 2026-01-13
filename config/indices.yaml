@@ -165,6 +165,46 @@
     - "SPY"
     - "513500.SS"
 
+- name: VOO
+  code: "VOO"
+  djeva_code: "VOO"
+  class: "US_INDEX"
+  price_symbol: "VOO"
+  etf_proxies:
+    - "VOO"
+
+- name: GLMD
+  code: "GLMD"
+  djeva_code: "GLMD"
+  class: "US_INDEX"
+  price_symbol: "GLMD"
+  etf_proxies:
+    - "GLMD"
+
+- name: IBIT
+  code: "IBIT"
+  djeva_code: "IBIT"
+  class: "US_INDEX"
+  price_symbol: "IBIT"
+  etf_proxies:
+    - "IBIT"
+
+- name: SGOV
+  code: "SGOV"
+  djeva_code: "SGOV"
+  class: "US_INDEX"
+  price_symbol: "SGOV"
+  etf_proxies:
+    - "SGOV"
+
+- name: QQQM
+  code: "QQQM"
+  djeva_code: "QQQM"
+  class: "US_INDEX"
+  price_symbol: "QQQM"
+  etf_proxies:
+    - "QQQM"
+
 - name: 德国DAX
   code: "GDAXI"
   djeva_code: "GDAXI"
